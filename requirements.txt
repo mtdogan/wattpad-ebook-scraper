@@ -1,0 +1,6 @@
+epubbuilder
+genshi
+lxml
+requests
+python-dateutil
+smartypants
