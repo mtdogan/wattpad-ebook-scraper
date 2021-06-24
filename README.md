@@ -1,4 +1,4 @@
-OP says: UNMAINTAINED, use https://github.com/JimmXinu/FanFicFare instead
+OP says: **UNMAINTAINED, use https://github.com/JimmXinu/FanFicFare instead**
 
 # Wattpad ebook scraper
 
