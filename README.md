@@ -1,3 +1,5 @@
+OP says: UNMAINTAINED, use https://github.com/JimmXinu/FanFicFare instead
+
 # Wattpad ebook scraper
 
 Scrape Wattpad stories into epub files for offline reading.
