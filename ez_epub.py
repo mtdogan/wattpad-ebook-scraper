@@ -2,6 +2,7 @@
 # This file is distributed under the BSD Licence.
 # See python-epub-builder-license.txt for details.
 
+import os.path as osp
 import epub
 from genshi.template import TemplateLoader
 
@@ -16,7 +17,7 @@ class Section:
 
 
 class Book:
-    def __init__(self, template_dir="templates"):
+    def __init__(self, template_dir=osp.join(osp.dirname(__file__), "templates")):
         self.impl = epub.EpubBook()
         self.title = ''
         self.authors = []
